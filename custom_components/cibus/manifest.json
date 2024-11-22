@@ -1,11 +1,12 @@
 {
     "domain": "cibus",
     "name": "Cibus",
-    "version": "1.0.0",
-    "iot_class": "cloud_polling",
-    "documentation": "https://github.com/ronganam/cibus-integration",
-    "requirements": [],
-    "dependencies": [],
     "codeowners": ["@ronganam"],
-    "config_flow": true
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/ronganam/cibus-integration",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/ronganam/cibus-integration/issues",
+    "requirements": [],
+    "version": "1.0.0"
 }
